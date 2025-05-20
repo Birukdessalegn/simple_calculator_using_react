@@ -19,7 +19,9 @@ A sleek, responsive calculator built with **React** and **CSS**, featuring a cle
 ---
 
 ## 🚀 Live Demo  
-Try it here: [https://birukdessalegn.github.io/my-calculator](https://birukdessalegn.github.io/my-calculator)  
+Try it here: [https://birukdessalegn.github.io/simple_calculator_using_react
+](https://birukdessalegn.github.io/simple_calculator_using_react
+)  
 
 ---
 
