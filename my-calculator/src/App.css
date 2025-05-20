@@ -1,0 +1,92 @@
+body {
+  font-family: 'Arial', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #f0f0f0;
+  margin: 0;
+}
+
+.calculator {
+  border-radius: 10px;
+  box-shadow: 0 0 25px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+  width: 320px;
+  background-color: #333;
+}
+
+.calculator-display {
+  background-color: #222;
+  color: white;
+  font-size: 2.5em;
+  padding: 20px;
+  text-align: right;
+  min-height: 1.5em; /* Ensure display doesn't collapse */
+  overflow-wrap: break-word; /* Wrap long numbers */
+  word-break: break-all;
+}
+
+.calculator-keypad {
+  display: flex;
+}
+
+.input-keys {
+  width: 75%; /* 3 columns for digits and functions */
+}
+
+.function-keys {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* Adjust if you add more function keys */
+}
+
+.digit-keys {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.operator-keys {
+  width: 25%; /* 1 column for operators */
+  display: flex;
+  flex-direction: column;
+}
+
+.calculator-key {
+  background-color: #555;
+  border: 1px solid #444;
+  color: white;
+  font-size: 1.5em;
+  padding: 20px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.calculator-key:hover {
+  background-color: #666;
+}
+
+.calculator-key:active {
+  background-color: #777;
+}
+
+.key-clear {
+  background-color: #d35400; /* Orange for clear */
+  grid-column: span 3; /* Make clear button span across */
+}
+.key-clear:hover {
+  background-color: #e67e22;
+}
+
+.operator-keys .calculator-key {
+  background-color: #f39c12; /* Amber for operators */
+}
+.operator-keys .calculator-key:hover {
+  background-color: #f1c40f;
+}
+
+.key-equals {
+  background-color: #2ecc71; /* Green for equals */
+}
+.key-equals:hover {
+  background-color: #27ae60;
+}
