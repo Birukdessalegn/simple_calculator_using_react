@@ -16,11 +16,11 @@ A responsive calculator app built with **React** and **CSS**. Supports basic ari
 - ♻️ Clear (AC) and backspace (⌫) functionality
 
 ## 🚀 Live Demo
-Try it here:[ [https://Birukdessalegn.github.io/my-calculator](https://Birukdessalegn.github.io/simple_calculator_using_react)](https://github.com/Birukdessalegn/simple_calculator_using_react.git)
+Try it here: [https://Birukdessalegn.github.io/my-calculator](https://Birukdessalegn.github.io/simple_calculator_using_react)
 
 ---
 
 ## 🛠️ Installation
 1. Clone the repo:
    ```bash
-   git clone https://github.com/Birukdessalegn/react-calculator.git
+   git clone https://github.com/Birukdessalegn/simple_calculator_using_react.git
