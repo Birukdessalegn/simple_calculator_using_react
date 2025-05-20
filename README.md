@@ -1,9 +1,5 @@
 # React Calculator 🧮
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![React](https://img.shields.io/badge/React-18.2.0-%2361DAFB)](https://reactjs.org/)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/Birukdessalegn/react-calculator/ci.yml?branch=main)](https://github.com/Birukdessalegn/react-calculator/actions)
-[![Live Demo](https://img.shields.io/badge/demo-online-green)](https://birukdessalegn.github.io/react-calculator)
 
 A responsive calculator app built with **React** and **CSS**. Supports basic arithmetic operations with a clean UI.
 
@@ -20,7 +16,7 @@ A responsive calculator app built with **React** and **CSS**. Supports basic ari
 - ♻️ Clear (AC) and backspace (⌫) functionality
 
 ## 🚀 Live Demo
-Try it here: [https://Birukdessalegn.github.io/my-calculator](https://Birukdessalegn.github.io/my-calculator)
+Try it here: [https://Birukdessalegn.github.io/my-calculator](https://Birukdessalegn.github.io/simple_calculator_using_react)
 
 ---
 
