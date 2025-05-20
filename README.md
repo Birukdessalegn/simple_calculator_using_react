@@ -6,7 +6,7 @@
 
 A clean and functional calculator application built with React.js.
 
-![Calculator Screenshot](./screenshot.png)
+![Calculator Screenshot](./screenshot(28).png)
 
 ## ✨ Features
 
